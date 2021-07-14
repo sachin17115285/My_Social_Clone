@@ -25,7 +25,7 @@ SECRET_KEY = '(5qpl&b-b48^jszl@nz02#lgbw%tp(o)_wb!)b&k(j9*kueh@&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'clonesocialmedia.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','https://clonesocialmedia.herokuapp.com/',clonesocialmedia.herokuapp.com/']
 
 
 # Application definition
